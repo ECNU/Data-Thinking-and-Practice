@@ -28,6 +28,13 @@
 |   06   | 01-05 | 数据实践案例 | [@will-ww](https://github.com/will-ww) |  |  |  |
 |   06   | 番外 | 数据科学前沿 | [@will-ww](https://github.com/will-ww) |  |  |  |
 
+实验部分内容（Lab）：
+- 1、重要库的使用（NumPy/Pandas/SciPy/Matplotlib）
+- 2、Python 数学实例
+- 3、Python 爬虫与预处理
+- 4、Python 数据可视化
+- 5、Python 数据建模
+- 6、Python 数据科学案例
 
 ---
 
