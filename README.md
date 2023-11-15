@@ -41,8 +41,6 @@
 
 ### 3、参考教材
 
-- **《数据科学与工程导论》**：https://github.com/will-ww/IntroDaSE
+- **《数据科学与工程导论》**: https://github.com/will-ww/IntroDaSE
+- **Data Science from Scratch**: https://github.com/joelgrus/data-science-from-scratch
 
-<div align=center>
-<img src="https://github.com/X-lab2017/ds-2023-autumn/assets/15010826/10aa5862-d514-493b-a119-fb40d9f17499" width="550px">
-</div>
