@@ -37,7 +37,7 @@
 |   06   | 番外 | 数据科学前沿 | [@will-ww](https://github.com/will-ww) |  |  |
 
 实验部分内容（Lab）：
-- Lab-01：开篇实例与数据工具
+- Lab-01：开篇实例与数据分析工具
 - Lab-02：Python 数学实例
 - Lab-03：Python 数据收集与管理
 - Lab-04：Python 数据探索与预处理
