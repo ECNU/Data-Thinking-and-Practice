@@ -34,7 +34,7 @@
 |   04   | 12-22 | 数据探索与预处理 | [@will-ww](https://github.com/will-ww) |  |  |
 |   05   | 12-29 | 数据建模与分析 | [@will-ww](https://github.com/will-ww) |  |  |
 |   06   | 01-05 | 数据科学实践案例 | [@will-ww](https://github.com/will-ww) |  |  |
-|   06   | 番外 | 数据科学前沿 | [@will-ww](https://github.com/will-ww) |  |  |
+|   07   | 番外 | 数据科学前沿 | [@will-ww](https://github.com/will-ww) |  |  |
 
 实验部分内容（Lab）：
 - Lab-01：开篇实例与数据分析工具
