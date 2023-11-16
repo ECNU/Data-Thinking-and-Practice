@@ -28,21 +28,21 @@
 
 | 周数📆 | 日期🕣 | 内容📒 | 主讲💂‍♂️ | 本周任务 📌| 课件📘 |开放资源📂 |
 | :----: | :----: | ------ | :----------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-|   01   | 12-01 | 数据思维入门 | [@will-ww](https://github.com/will-ww) |  |  |  |
+|   01   | 12-01 | 数据科学与数据思维入门 | [@will-ww](https://github.com/will-ww) |  |  |  |
 |   02   | 12-08 | 数学基础与实例 | [@will-ww](https://github.com/will-ww) |  |  |  |
-|   03   | 12-15 | 数据收集与预处理 | [@will-ww](https://github.com/will-ww) |  |  |  |
-|   04   | 12-22 | 数据探索与可视化 | [@will-ww](https://github.com/will-ww) |  |  |  |
+|   03   | 12-15 | 数据收集与管理 | [@will-ww](https://github.com/will-ww) |  |  |  |
+|   04   | 12-22 | 数据探索与预处理 | [@will-ww](https://github.com/will-ww) |  |  |  |
 |   05   | 12-29 | 数据建模与分析 | [@will-ww](https://github.com/will-ww) |  |  |  |
-|   06   | 01-05 | 数据实践案例 | [@will-ww](https://github.com/will-ww) |  |  |  |
+|   06   | 01-05 | 数据科学实践案例 | [@will-ww](https://github.com/will-ww) |  |  |  |
 |   06   | 番外 | 数据科学前沿 | [@will-ww](https://github.com/will-ww) |  |  |  |
 
 实验部分内容（Lab）：
-- 1、重要库的使用（NumPy/Pandas/SciPy/Matplotlib）
+- 1、开篇实例与数据工具
 - 2、Python 数学实例
-- 3、Python 爬虫与预处理
-- 4、Python 数据可视化
-- 5、Python 数据建模
-- 6、Python 数据科学案例
+- 3、Python 数据收集与管理
+- 4、Python 数据探索与预处理
+- 5、Python 数据建模与分析
+- 6、Python 数据科学实践案例
 
 ---
 
