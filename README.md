@@ -37,7 +37,7 @@
 |   07   | 番外 | 数据科学前沿 | [@will-ww](https://github.com/will-ww) |  |  |
 
 实验部分内容（Lab）：
-- Lab-01：数据科学实践场景——开源数字王国
+- Lab-01：开源数字王国的故事
 - Lab-02：Python 数学实例
 - Lab-03：Python 数据收集与管理
 - Lab-04：Python 数据探索与预处理
