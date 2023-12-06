@@ -29,7 +29,7 @@
 | 周数 | 日期🕣 | 主题📒 | 主讲💂‍♂️ | 本周任务 📌 | 课件📘 |
 | :----: | :----: | ------ | :----------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |   01   | 12-01 | 数据科学与数据思维入门 | [@will-ww](https://github.com/will-ww) | [Lab-01](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lab/Lab01/lab01.ipynb) |[课件-01](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lecture/Lecture-01.pdf) |
-|   02   | 12-08 | 数学基础与实例 | [@will-ww](https://github.com/will-ww) |  |  |
+|   02   | 12-08 | 数据科学的数学基础 | [@will-ww](https://github.com/will-ww) |  |  |
 |   03   | 12-15 | 数据收集与管理 | [@will-ww](https://github.com/will-ww) |  |  |
 |   04   | 12-22 | 数据探索与预处理 | [@will-ww](https://github.com/will-ww) |  |  |
 |   05   | 12-29 | 数据建模与分析 | [@will-ww](https://github.com/will-ww) |  |  |
