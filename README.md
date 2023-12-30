@@ -29,10 +29,10 @@
 | 周数 | 日期🕣 | 主题📒 | 主讲💂‍♂️ | 本周任务 📌 | 课件📘 |
 | :----: | :----: | ------ | :----------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |   01   | 12-01 | 数据科学与数据思维入门 | [@will-ww](https://github.com/will-ww) | [Lab-01](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lab/Lab01/lab01.ipynb) |[课件-01](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lecture/Lecture-01.pdf) |
-|   02   | 12-08 | 数据科学的数学基础 | [@will-ww](https://github.com/will-ww) |  |  |
-|   03   | 12-15 | 数据收集与管理 | [@will-ww](https://github.com/will-ww) |  |  |
-|   04   | 12-22 | 数据探索与预处理 | [@will-ww](https://github.com/will-ww) |  |  |
-|   05   | 12-29 | 数据建模与分析 | [@will-ww](https://github.com/will-ww) |  |  |
+|   02   | 12-08 | 数据科学的数学基础 | [@will-ww](https://github.com/will-ww) | [Lab-02](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lab/Lab02/lab02.ipynb) | [课件-02](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lecture/Lecture-02.pdf)|
+|   03   | 12-15 | 数据收集与管理 | [@will-ww](https://github.com/will-ww) | [Lab-03](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lab/Lab03/lab03.ipynb) | [课件-03](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lecture/Lecture-03.pdf) |
+|   04   | 12-22 | 数据探索与预处理 | [@will-ww](https://github.com/will-ww) | [Lab-04](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lab/Lab04/lab04.ipynb) | [课件-04](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lecture/Lecture-04.pdf) |
+|   05   | 12-29 | 数据建模与分析 | [@will-ww](https://github.com/will-ww) | [Lab-05](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lab/Lab05/lab05.ipynb) | [课件-05](https://github.com/ECNU/Data-Thinking-and-Practice/blob/main/Lecture/Lecture-05.pdf) |
 |   06   | 01-05 | 数据科学实践案例 | [@will-ww](https://github.com/will-ww) |  |  |
 |   07   | 番外 | 数据科学前沿 | [@will-ww](https://github.com/will-ww) |  |  |
 
