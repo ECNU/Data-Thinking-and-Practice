@@ -1,4 +1,4 @@
-![image](https://github.com/ECNU/Data-Thinking-and-Practice/assets/15010826/b9f0eae6-426b-4dd7-8145-57da20e9ae3c)![image](https://github.com/ECNU/Data-Thinking-and-Practice/assets/15010826/2390b665-d349-4dff-bd1a-383f649594e2)# Data-Thinking-and-Practice
+# Data-Thinking-and-Practice
 《数据思维与实践》课程学习社区~
 
 本仓库为《数据思维与实践》（微专业）2023 年秋季学期课程仓库。所有的课程安排、资料、习题、作业、项目等均放在此处。欢迎大家积极提出问题和建议，一起来交流~
